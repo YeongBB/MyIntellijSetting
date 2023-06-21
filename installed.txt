@@ -1,0 +1,2 @@
+com.markskelton.one-dark-theme
+izhangzhihao.rainbow.brackets
